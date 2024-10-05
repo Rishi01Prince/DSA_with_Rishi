@@ -1,0 +1,1 @@
+{"name":"Local: MaxSubarray","url":"d:\\My Codes\\Data Structure\\Array\\MaxSubarray.cpp","tests":[{"id":1657559531559,"input":"1\n7\n2 3 -8 7 -1 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\My Codes\\Data Structure\\Array\\MaxSubarray.cpp","group":"local","local":true}

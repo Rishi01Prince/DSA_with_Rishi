@@ -1,0 +1,1 @@
+{"name":"Local: PrintBundaryElements","url":"d:\\My Codes\\Data Structure\\Matrix\\PrintBundaryElements.cpp","tests":[{"id":1657732485170,"input":"4 1\n1 2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\My Codes\\Data Structure\\Matrix\\PrintBundaryElements.cpp","group":"local","local":true}
