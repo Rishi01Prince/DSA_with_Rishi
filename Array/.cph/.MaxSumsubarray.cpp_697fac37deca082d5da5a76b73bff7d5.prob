@@ -1,0 +1,1 @@
+{"name":"Local: MaxSumsubarray","url":"c:\\Users\\Rishi Raj\\Desktop\\Code DSA\\Array\\MaxSumsubarray.cpp","tests":[{"id":1665122006017,"input":"1\n6\n-3 8 -2 4 -5 6","output":"999"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Rishi Raj\\Desktop\\Code DSA\\Array\\MaxSumsubarray.cpp","group":"local","local":true}

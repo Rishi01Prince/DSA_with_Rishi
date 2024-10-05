@@ -1,0 +1,1 @@
+{"name":"Local: IndexOfFirstOcc","url":"d:\\My Codes\\Data Structure\\Searching\\IndexOfFirstOcc.cpp","tests":[{"id":1658844204493,"input":"4\n5\n1 2 2 2 6\n2\n5\n4 5 6 8 8\n8\n5\n8 8 10 10 10\n8\n1\n2\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\My Codes\\Data Structure\\Searching\\IndexOfFirstOcc.cpp","group":"local","local":true}

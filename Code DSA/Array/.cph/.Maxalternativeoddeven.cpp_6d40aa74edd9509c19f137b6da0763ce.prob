@@ -1,0 +1,1 @@
+{"name":"Local: Maxalternativeoddeven","url":"d:\\My Codes\\Data Structure\\Array\\Maxalternativeoddeven.cpp","tests":[{"id":1657621178411,"input":"3\n5\n10 12 14 7 8\n4\n7 10 13 14\n7\n0 1 2 7 0 8 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\My Codes\\Data Structure\\Array\\Maxalternativeoddeven.cpp","group":"local","local":true}
